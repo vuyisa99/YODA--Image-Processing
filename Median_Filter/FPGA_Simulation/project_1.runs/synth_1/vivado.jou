@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu May  9 07:56:05 2024
+# Process ID: 23220
+# Current directory: C:/Users/Vuyisa Mpetsheni/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log simple_median_filter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source simple_median_filter.tcl
+# Log file: C:/Users/Vuyisa Mpetsheni/project_1/project_1.runs/synth_1/simple_median_filter.vds
+# Journal file: C:/Users/Vuyisa Mpetsheni/project_1/project_1.runs/synth_1\vivado.jou
+# Running On: DESKTOP-4FLCG2V, OS: Windows, CPU Frequency: 1696 MHz, CPU Physical cores: 2, Host memory: 8489 MB
+#-----------------------------------------------------------
+source simple_median_filter.tcl -notrace
